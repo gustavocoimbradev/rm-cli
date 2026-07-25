@@ -2,7 +2,7 @@
 
 Ferramenta CLI desenvolvida em Go para consultar dados diretamente no banco de dados SQL Server do TOTVS RM (CorporeRM).
 
-O projeto busca facilitar o acesso a informações do sistema por meio do terminal, permitindo a criação de comandos para consultas, listagens e relatórios.
+O projeto busca facilitar o acesso a informações do sistema por meio do terminal, permitindo a criação de comandos para consultas, listagens e geração de relatórios.
 
 ## Funcionalidades
 
@@ -30,7 +30,7 @@ DB_PASSWORD=senha
 Execute diretamente com Go:
 
 ```bash
-go run . student {{ra}}
+go run .
 ```
 
 Ou gere o executável:
@@ -42,32 +42,10 @@ go build -o rm-cli
 Depois execute:
 
 ```bash
-./rm-cli student {{ra}}
+./rm-cli
 ```
 
-## Exemplo
-
-```text
-DADOS DO ALUNO
-
-RA: 000000
-Nome: João da Silva
-CPF: 12345678900
-Nascimento: 1990-01-01
-E-mail: joao@example.com
-Telefones: 35999999999
-
-ENDEREÇO
-
-Rua: Rua Principal
-Número: 123
-Complemento: -
-Bairro: Centro
-Cidade: Varginha
-Estado: MG
-CEP: 37000000
-País: Brasil
-```
+A ferramenta exibirá no terminal os comandos disponíveis.
 
 ## Tecnologias
 
