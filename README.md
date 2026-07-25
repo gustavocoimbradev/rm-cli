@@ -52,9 +52,9 @@ A ferramenta exibirá no terminal os comandos disponíveis.
 * Go
 * SQL Server
 * TOTVS RM (CorporeRM)
-* `database/sql`
-* `go-mssqldb`
-* `godotenv`
+* database/sql
+* go-mssqldb
+* godotenv
 
 ## Autor
 
