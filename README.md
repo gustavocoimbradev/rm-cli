@@ -1,4 +1,3 @@
-````markdown
 # RM CLI
 
 Ferramenta CLI desenvolvida em Go para consultar dados diretamente no banco de dados SQL Server do TOTVS RM (CorporeRM).
@@ -83,6 +82,3 @@ País: Brasil
 ## Autor
 
 Desenvolvido por [Gustavo Coimbra](https://github.com/gustavocoimbradev).
-
-```
-```
