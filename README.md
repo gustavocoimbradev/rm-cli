@@ -4,6 +4,8 @@ Ferramenta CLI desenvolvida em Go para consultar dados diretamente no banco de d
 
 O projeto busca facilitar o acesso a informações do sistema por meio do terminal, permitindo a criação de comandos para consultas, listagens e geração de relatórios.
 
+<img width="864" height="733" alt="image" src="https://github.com/user-attachments/assets/280249ab-d6d4-4e23-b2cf-fe86f4c14267" />
+
 ## Funcionalidades
 
 * Conecta diretamente ao banco de dados do TOTVS RM
