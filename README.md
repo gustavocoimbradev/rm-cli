@@ -55,7 +55,3 @@ A ferramenta exibirá no terminal os comandos disponíveis.
 * database/sql
 * go-mssqldb
 * godotenv
-
-## Autor
-
-Desenvolvido por [Gustavo Coimbra](https://github.com/gustavocoimbradev).
