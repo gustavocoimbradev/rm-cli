@@ -12,7 +12,6 @@ O projeto busca facilitar o acesso a informações do sistema por meio do termin
 * Exibe os resultados de forma organizada
 * Suporta a criação de novos comandos e relatórios
 * Utiliza consultas SQL parametrizadas
-* Possui saída colorida no terminal
 
 ## Configuração
 
